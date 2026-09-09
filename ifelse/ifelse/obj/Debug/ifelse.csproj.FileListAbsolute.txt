@@ -1,0 +1,8 @@
+D:\Dotnet\ifelse\ifelse\bin\Debug\ifelse.exe.config
+D:\Dotnet\ifelse\ifelse\bin\Debug\ifelse.exe
+D:\Dotnet\ifelse\ifelse\bin\Debug\ifelse.pdb
+D:\Dotnet\ifelse\ifelse\obj\Debug\ifelse.csproj.AssemblyReference.cache
+D:\Dotnet\ifelse\ifelse\obj\Debug\ifelse.csproj.CoreCompileInputs.cache
+D:\Dotnet\ifelse\ifelse\obj\Debug\ifelse.exe
+D:\Dotnet\ifelse\ifelse\obj\Debug\ifelse.pdb
+D:\Dotnet\ifelse\ifelse\obj\Debug\ifelse.exe.config

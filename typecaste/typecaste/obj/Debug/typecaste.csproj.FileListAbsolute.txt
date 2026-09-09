@@ -1,0 +1,8 @@
+D:\Dotnet\typecaste\typecaste\bin\Debug\typecaste.exe.config
+D:\Dotnet\typecaste\typecaste\bin\Debug\typecaste.exe
+D:\Dotnet\typecaste\typecaste\bin\Debug\typecaste.pdb
+D:\Dotnet\typecaste\typecaste\obj\Debug\typecaste.csproj.AssemblyReference.cache
+D:\Dotnet\typecaste\typecaste\obj\Debug\typecaste.csproj.CoreCompileInputs.cache
+D:\Dotnet\typecaste\typecaste\obj\Debug\typecaste.exe
+D:\Dotnet\typecaste\typecaste\obj\Debug\typecaste.pdb
+D:\Dotnet\typecaste\typecaste\obj\Debug\typecaste.exe.config
