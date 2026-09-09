@@ -1,0 +1,8 @@
+D:\Dotnet\day3ass\day3ass\bin\Debug\day3ass.exe.config
+D:\Dotnet\day3ass\day3ass\bin\Debug\day3ass.exe
+D:\Dotnet\day3ass\day3ass\bin\Debug\day3ass.pdb
+D:\Dotnet\day3ass\day3ass\obj\Debug\day3ass.csproj.AssemblyReference.cache
+D:\Dotnet\day3ass\day3ass\obj\Debug\day3ass.csproj.CoreCompileInputs.cache
+D:\Dotnet\day3ass\day3ass\obj\Debug\day3ass.exe
+D:\Dotnet\day3ass\day3ass\obj\Debug\day3ass.pdb
+D:\Dotnet\day3ass\day3ass\obj\Debug\day3ass.exe.config
