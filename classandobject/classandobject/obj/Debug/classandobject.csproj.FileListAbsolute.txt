@@ -1,0 +1,8 @@
+D:\Dotnet\classandobject\classandobject\bin\Debug\classandobject.exe.config
+D:\Dotnet\classandobject\classandobject\bin\Debug\classandobject.exe
+D:\Dotnet\classandobject\classandobject\bin\Debug\classandobject.pdb
+D:\Dotnet\classandobject\classandobject\obj\Debug\classandobject.csproj.AssemblyReference.cache
+D:\Dotnet\classandobject\classandobject\obj\Debug\classandobject.csproj.CoreCompileInputs.cache
+D:\Dotnet\classandobject\classandobject\obj\Debug\classandobject.exe
+D:\Dotnet\classandobject\classandobject\obj\Debug\classandobject.pdb
+D:\Dotnet\classandobject\classandobject\obj\Debug\classandobject.exe.config

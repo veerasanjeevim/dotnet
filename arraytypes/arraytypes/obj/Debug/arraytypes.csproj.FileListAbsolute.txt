@@ -1,0 +1,8 @@
+D:\Dotnet\arraytypes\arraytypes\bin\Debug\arraytypes.exe.config
+D:\Dotnet\arraytypes\arraytypes\bin\Debug\arraytypes.exe
+D:\Dotnet\arraytypes\arraytypes\bin\Debug\arraytypes.pdb
+D:\Dotnet\arraytypes\arraytypes\obj\Debug\arraytypes.csproj.AssemblyReference.cache
+D:\Dotnet\arraytypes\arraytypes\obj\Debug\arraytypes.csproj.CoreCompileInputs.cache
+D:\Dotnet\arraytypes\arraytypes\obj\Debug\arraytypes.exe
+D:\Dotnet\arraytypes\arraytypes\obj\Debug\arraytypes.pdb
+D:\Dotnet\arraytypes\arraytypes\obj\Debug\arraytypes.exe.config
