@@ -1,0 +1,8 @@
+D:\Dotnet\clsspractise\clsspractise\bin\Debug\clsspractise.exe.config
+D:\Dotnet\clsspractise\clsspractise\bin\Debug\clsspractise.exe
+D:\Dotnet\clsspractise\clsspractise\bin\Debug\clsspractise.pdb
+D:\Dotnet\clsspractise\clsspractise\obj\Debug\clsspractise.csproj.AssemblyReference.cache
+D:\Dotnet\clsspractise\clsspractise\obj\Debug\clsspractise.csproj.CoreCompileInputs.cache
+D:\Dotnet\clsspractise\clsspractise\obj\Debug\clsspractise.exe
+D:\Dotnet\clsspractise\clsspractise\obj\Debug\clsspractise.pdb
+D:\Dotnet\clsspractise\clsspractise\obj\Debug\clsspractise.exe.config

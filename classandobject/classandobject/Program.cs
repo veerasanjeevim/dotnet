@@ -9,8 +9,10 @@ namespace classandobject
 {
     class car
     {
-        public car()
+        string carname;
+        public car(string cardet)
         {
+            string carname = cardet;
             Console.WriteLine("the car engine is started");
 
        
@@ -39,7 +41,7 @@ namespace classandobject
     {
         static void Main(string[] args)
         {
-            car s3 = new car();
+            car s3 = new car("toyoto");
             Console.WriteLine(s3.name);
             s3.throtling();
 
