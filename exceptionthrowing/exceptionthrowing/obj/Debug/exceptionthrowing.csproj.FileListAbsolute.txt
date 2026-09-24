@@ -1,0 +1,2 @@
+D:\Dotnet\exceptionthrowing\exceptionthrowing\obj\Debug\exceptionthrowing.csproj.AssemblyReference.cache
+D:\Dotnet\exceptionthrowing\exceptionthrowing\obj\Debug\exceptionthrowing.csproj.CoreCompileInputs.cache

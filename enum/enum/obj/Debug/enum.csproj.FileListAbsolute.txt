@@ -1,0 +1,8 @@
+D:\Dotnet\enum\enum\bin\Debug\@enum.exe.config
+D:\Dotnet\enum\enum\bin\Debug\@enum.exe
+D:\Dotnet\enum\enum\bin\Debug\@enum.pdb
+D:\Dotnet\enum\enum\obj\Debug\enum.csproj.AssemblyReference.cache
+D:\Dotnet\enum\enum\obj\Debug\enum.csproj.CoreCompileInputs.cache
+D:\Dotnet\enum\enum\obj\Debug\@enum.exe
+D:\Dotnet\enum\enum\obj\Debug\@enum.pdb
+D:\Dotnet\enum\enum\obj\Debug\@enum.exe.config

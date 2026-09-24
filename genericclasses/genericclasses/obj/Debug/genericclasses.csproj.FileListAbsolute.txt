@@ -1,0 +1,7 @@
+D:\Dotnet\genericclasses\genericclasses\bin\Debug\genericclasses.exe.config
+D:\Dotnet\genericclasses\genericclasses\bin\Debug\genericclasses.exe
+D:\Dotnet\genericclasses\genericclasses\bin\Debug\genericclasses.pdb
+D:\Dotnet\genericclasses\genericclasses\obj\Debug\genericclasses.csproj.AssemblyReference.cache
+D:\Dotnet\genericclasses\genericclasses\obj\Debug\genericclasses.csproj.CoreCompileInputs.cache
+D:\Dotnet\genericclasses\genericclasses\obj\Debug\genericclasses.exe
+D:\Dotnet\genericclasses\genericclasses\obj\Debug\genericclasses.pdb

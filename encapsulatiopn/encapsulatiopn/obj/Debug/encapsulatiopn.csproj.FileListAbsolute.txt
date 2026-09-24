@@ -1,0 +1,8 @@
+D:\Dotnet\encapsulatiopn\encapsulatiopn\bin\Debug\encapsulatiopn.exe.config
+D:\Dotnet\encapsulatiopn\encapsulatiopn\bin\Debug\encapsulatiopn.exe
+D:\Dotnet\encapsulatiopn\encapsulatiopn\bin\Debug\encapsulatiopn.pdb
+D:\Dotnet\encapsulatiopn\encapsulatiopn\obj\Debug\encapsulatiopn.csproj.AssemblyReference.cache
+D:\Dotnet\encapsulatiopn\encapsulatiopn\obj\Debug\encapsulatiopn.csproj.CoreCompileInputs.cache
+D:\Dotnet\encapsulatiopn\encapsulatiopn\obj\Debug\encapsulatiopn.exe
+D:\Dotnet\encapsulatiopn\encapsulatiopn\obj\Debug\encapsulatiopn.pdb
+D:\Dotnet\encapsulatiopn\encapsulatiopn\obj\Debug\encapsulatiopn.exe.config

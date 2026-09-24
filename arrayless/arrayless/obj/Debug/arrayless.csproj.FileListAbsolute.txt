@@ -1,0 +1,8 @@
+D:\Dotnet\arrayless\arrayless\bin\Debug\arrayless.exe.config
+D:\Dotnet\arrayless\arrayless\bin\Debug\arrayless.exe
+D:\Dotnet\arrayless\arrayless\bin\Debug\arrayless.pdb
+D:\Dotnet\arrayless\arrayless\obj\Debug\arrayless.csproj.AssemblyReference.cache
+D:\Dotnet\arrayless\arrayless\obj\Debug\arrayless.csproj.CoreCompileInputs.cache
+D:\Dotnet\arrayless\arrayless\obj\Debug\arrayless.exe
+D:\Dotnet\arrayless\arrayless\obj\Debug\arrayless.pdb
+D:\Dotnet\arrayless\arrayless\obj\Debug\arrayless.exe.config

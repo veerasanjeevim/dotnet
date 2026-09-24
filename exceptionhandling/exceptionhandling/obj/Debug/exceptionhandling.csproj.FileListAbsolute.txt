@@ -1,0 +1,7 @@
+D:\Dotnet\exceptionhandling\exceptionhandling\bin\Debug\exceptionhandling.exe.config
+D:\Dotnet\exceptionhandling\exceptionhandling\bin\Debug\exceptionhandling.exe
+D:\Dotnet\exceptionhandling\exceptionhandling\bin\Debug\exceptionhandling.pdb
+D:\Dotnet\exceptionhandling\exceptionhandling\obj\Debug\exceptionhandling.csproj.AssemblyReference.cache
+D:\Dotnet\exceptionhandling\exceptionhandling\obj\Debug\exceptionhandling.csproj.CoreCompileInputs.cache
+D:\Dotnet\exceptionhandling\exceptionhandling\obj\Debug\exceptionhandling.exe
+D:\Dotnet\exceptionhandling\exceptionhandling\obj\Debug\exceptionhandling.pdb

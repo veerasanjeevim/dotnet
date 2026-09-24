@@ -1,0 +1,8 @@
+D:\Dotnet\exceptionhandlingassignment\exceptionhandlingassignment\obj\Debug\exceptionhandlingassignment.csproj.AssemblyReference.cache
+D:\Dotnet\exceptionhandlingassignment\exceptionhandlingassignment\obj\Debug\exceptionhandlingassignment.csproj.CoreCompileInputs.cache
+D:\Dotnet\exceptionhandlingassignment\exceptionhandlingassignment\bin\Debug\exceptionhandlingassignment.exe.config
+D:\Dotnet\exceptionhandlingassignment\exceptionhandlingassignment\bin\Debug\exceptionhandlingassignment.exe
+D:\Dotnet\exceptionhandlingassignment\exceptionhandlingassignment\bin\Debug\exceptionhandlingassignment.pdb
+D:\Dotnet\exceptionhandlingassignment\exceptionhandlingassignment\obj\Debug\exceptionhandlingassignment.exe
+D:\Dotnet\exceptionhandlingassignment\exceptionhandlingassignment\obj\Debug\exceptionhandlingassignment.pdb
+D:\Dotnet\exceptionhandlingassignment\exceptionhandlingassignment\obj\Debug\exceptionhandlingassignment.exe.config

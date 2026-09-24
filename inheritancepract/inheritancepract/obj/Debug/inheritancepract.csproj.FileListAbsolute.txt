@@ -1,0 +1,8 @@
+D:\Dotnet\inheritancepract\inheritancepract\bin\Debug\inheritancepract.exe.config
+D:\Dotnet\inheritancepract\inheritancepract\bin\Debug\inheritancepract.exe
+D:\Dotnet\inheritancepract\inheritancepract\bin\Debug\inheritancepract.pdb
+D:\Dotnet\inheritancepract\inheritancepract\obj\Debug\inheritancepract.csproj.AssemblyReference.cache
+D:\Dotnet\inheritancepract\inheritancepract\obj\Debug\inheritancepract.csproj.CoreCompileInputs.cache
+D:\Dotnet\inheritancepract\inheritancepract\obj\Debug\inheritancepract.exe
+D:\Dotnet\inheritancepract\inheritancepract\obj\Debug\inheritancepract.pdb
+D:\Dotnet\inheritancepract\inheritancepract\obj\Debug\inheritancepract.exe.config

@@ -1,0 +1,7 @@
+D:\Dotnet\indexer\indexer\bin\Debug\indexer.exe.config
+D:\Dotnet\indexer\indexer\bin\Debug\indexer.exe
+D:\Dotnet\indexer\indexer\bin\Debug\indexer.pdb
+D:\Dotnet\indexer\indexer\obj\Debug\indexer.csproj.AssemblyReference.cache
+D:\Dotnet\indexer\indexer\obj\Debug\indexer.csproj.CoreCompileInputs.cache
+D:\Dotnet\indexer\indexer\obj\Debug\indexer.exe
+D:\Dotnet\indexer\indexer\obj\Debug\indexer.pdb

@@ -1,0 +1,8 @@
+D:\Dotnet\genericarray\genericarray\bin\Debug\genericarray.exe.config
+D:\Dotnet\genericarray\genericarray\bin\Debug\genericarray.exe
+D:\Dotnet\genericarray\genericarray\bin\Debug\genericarray.pdb
+D:\Dotnet\genericarray\genericarray\obj\Debug\genericarray.csproj.AssemblyReference.cache
+D:\Dotnet\genericarray\genericarray\obj\Debug\genericarray.csproj.CoreCompileInputs.cache
+D:\Dotnet\genericarray\genericarray\obj\Debug\genericarray.exe
+D:\Dotnet\genericarray\genericarray\obj\Debug\genericarray.pdb
+D:\Dotnet\genericarray\genericarray\obj\Debug\genericarray.exe.config
